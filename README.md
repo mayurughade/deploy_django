@@ -1,1 +1,1 @@
-# django_deploy
+# deploy_django
