@@ -767,3 +767,15 @@ h6,
 }
 
 .tie_form::placeholder{color: var(--primary);opacity:1}
+#carousel-item1 {
+    height : 520px;
+}
+#carousel-item2 {
+    height : 520px;
+}
+
+@media (max-width: 1000px) {
+    #carousel-item2 {
+        height : 1500px;
+    }
+}
